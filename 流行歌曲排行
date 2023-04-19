@@ -1,0 +1,20 @@
+<!docttype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>流行音乐排行</title>
+</head>
+<body>
+	<h1 align="left">流行音乐排行</h1>
+	<ul>
+		<li><a href="你的答案.html">你的答案</a>&nbsp阿兀</li>
+		<li><a href="桥边姑娘.html">桥边姑娘</a>&nbsp海伦</li>
+		<li><a href="芒种.html">芒种</a>&nbsp赵方晴</li>
+		<li><a href="大鱼.html">大鱼</a>&nbsp周深</li>
+		<li><a href="追光者.html">追光者</a>&nbsp岑宁儿</li>
+	</ul>
+	<h2 align="left">流行音乐简介</h2>
+	<img src="">&nbsp<img src="">&nbsp<img src="">&nbsp<img src="">&nbsp<img src="">
+	<br>
+	你的答案 阿兀&nbsp桥边姑娘 海伦&nbsp芒种 赵方晴&nbsp大鱼 周深&nbsp追光者 岑宁儿
+</body>
